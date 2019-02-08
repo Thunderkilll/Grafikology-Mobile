@@ -1,0 +1,72 @@
+Feature
+#ANDROID :
+Implement Material Design for Android
+Cached Image
+Offline Mode Support
+Hide on scroll actionbar
+Material Drawer With Category
+Menu Favorite Place
+Easy color customize
+Animated Floating action button
+Animation transition effect
+MapView show place location
+Map Activity With Categorize Places
+Featured Category For Recomended Places
+Navigate to the place location
+Filter search place
+History recent search
+Share Place
+Beauty Splash Screen
+Light Server Request
+Support Android ICS 4.0 and up
+Beauty Card View
+Support multiple Image for single place
+Webview for Description Place
+Sort by Nearby when GPS active
+Animate Fab when scrolling
+Slider gallery display image
+Clear local image cache
+Android Parallax Scrollbar
+Support Multiple Screen
+Dial Phone of place
+Notifications Sound Setting
+Image Push Notification
+
+Notification Vibration Setting
+SQLite database for store offline data
+Ripple Effect
+Integrated with FCM push notification
+Integrate with Google Analytics  // a vérifier 
+Using Android Studio & Build Gradle
+Clean & Neat Code (relative)
+
+## WEB ADMIN :
+
+Implement Material Design Web Admin
+Material Form
+Material dialog view
+Support Multi User
+Horizontal loading
+Responsive Web Admin
+Responsive Drawer Menu
+Categories Display place
+Responsive Table Web Admin
+Using Angular Material
+Easy Customize color
+All in one file API
+Support multiple Image Upload
+Support multiple Category for one Place
+Integrated with FCM push notification
+Implement pagination for Place and Gcm list
+Unlimited FCM notifications
+Ripple Effect
+Material Drawer
+Beauty Cardview
+Search Place Field
+Rich Text Editor
+Feature News Info 	 //offres d'emploi 
+News Info Details   //offres d'emploi 
+Open Website of place
+Ads Banner & Interstitial Integrated 
+
+https://youtu.be/rzmB3UxxhaA
