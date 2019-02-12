@@ -1,7 +1,9 @@
-package com.grfico.balack_ice.grafikology;
+package com.grfico.balack_ice.grafikology.Activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.grfico.balack_ice.grafikology.R;
 
 public class SplashScreen extends AppCompatActivity {
 
