@@ -13,4 +13,3 @@ public class LoadActivity extends AppCompatActivity {
         setContentView(R.layout.activity_load);
     }
 }
-//3asba kbira
