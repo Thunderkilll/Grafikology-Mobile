@@ -29,4 +29,8 @@ dependencies {
     //    // CardView
 
     implementation 'com.android.support:cardview-v7:28.0.0'
+    //desert placeholder
+    implementation 'com.github.jetradarmobile.desertplaceholder:desertplaceholder:1.2.4'
+    //ripple effect when we click on a button
+    implementation 'com.github.traex.rippleeffect:library:1.3'
 }
