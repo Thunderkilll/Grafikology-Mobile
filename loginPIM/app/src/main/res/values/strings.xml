@@ -6,5 +6,10 @@
     <string name="twitter_login">twitterLogin</string>
     <string name="login_instagram">login instagram</string>
     <string name="login_facebook">login facebook</string>
-    <string name="register_here_placeholder">Register Here.</string>
+    <string name="register_here_placeholder">Register Here</string>
+    <string name="loading_msg">loading please wait ...</string>
+    <string name="image_description">logo of my application</string>
+    <string name="submit_register">SUBMIT</string>
+    <string name="phone_numb">Phone Numb</string>
+    <string name="email">Email</string>
 </resources>
